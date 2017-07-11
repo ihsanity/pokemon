@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/post/lunala/</loc>
+    <lastmod>2017-07-11T12:09:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/post/lycanroc/</loc>
+    <lastmod>2017-07-11T12:09:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/post/primarina/</loc>
+    <lastmod>2017-07-11T12:09:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/post/salazzle/</loc>
+    <lastmod>2017-07-11T12:09:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/post/vikavolt/</loc>
+    <lastmod>2017-07-11T12:09:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/post/</loc>
+    <lastmod>2017-07-11T12:09:56+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/</loc>
+    <lastmod>2017-07-11T12:09:56+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihsanity.github.io/pokemon/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
